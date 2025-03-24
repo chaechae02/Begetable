@@ -1,2 +1,2 @@
-# Begetable
-Be Better, Get Capable
+# BEGETABLE
+BE better, GET capABLE
